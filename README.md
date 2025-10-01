@@ -23,7 +23,7 @@ I'm Co-founder of [**Grupo Zenith**](https://www.grupozenith.com), where we deve
 
 - [`optimalystic`](https://github.com/luisferpinilla/optimalystic): A JSON-based mathematical modeling language designed to integrate easily with frontends like WPF or Flet, and solve MIP models using multiple backend solvers.
 - [`ia_demand_planner`](https://github.com/luisferpinilla/ia_demand_planner): A demand forecasting tool using machine learning and classical statistical methods.
-- [`scm_inventory_model_simulator`](https://github.com/luisferpinilla/scm_inventory_model_simulator): A discrete-event simulator to evaluate inventory replenishment policies, service levels, and safety stock configurations.
+- [`scm_inventory_model_simulator`](https://github.com/luisferpinilla/scm_inventory_model_simulator): A discrete-event simulator to evaluate inventory replenishment policies, service levels, and safety stock configurations. you can check it [here](https://supply-chain-planning-optimizator.streamlit.app/ClassicModelSimulator)
 
 ---
 
