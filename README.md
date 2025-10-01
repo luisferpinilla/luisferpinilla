@@ -6,7 +6,7 @@
 
 🎯 I’m passionate about solving real-world problems by combining applied mathematics, programming, and systems thinking. For over 10 years, I’ve been designing solutions to improve logistics processes, model complex decisions, and turn raw data into meaningful action.
 
-I'm the founder of **Grupo Zenith**, where we develop mathematical models, custom-built applications, and analytics strategies for companies across Latin America.
+I'm Co-founder of [**Grupo Zenith**](https://www.grupozenith.com), where we develop mathematical models, custom-built applications, and analytics strategies for companies across Latin America.
 
 ---
 
